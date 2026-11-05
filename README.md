@@ -21,18 +21,26 @@ This repository holds the **Open Creator Constitution** and practical guidance f
 9. **Community accountability:** Document decisions, invite contributions, and review tradeoffs openly without sacrificing creator rights.
 10. **Verifiable releases:** Check functionality, security, affordability, ownership, portability, accessibility, and authorized human approval.
 
+## A living, adaptable constitution
+
+This is a **starting point, not a final rulebook**. We invite developers, students, independent creators, and human–AI teams to propose improvements, question assumptions, and create new interpretations. The upstream repository has human review and a documented amendment process; independent editions are meant to remain free to evolve under the terms of an appropriate content license.
+
+Read the [Living Constitution](LIVING_CONSTITUTION.md) for how amendments, disagreement, forks, and AI contributions work, and [Contributing](CONTRIBUTING.md) for how to participate. **The intended right to copy and redistribute adapted text still requires an explicit license**, which has not yet been selected.
+
 ## Read the constitutional documents
 
 | File | Purpose |
 | --- | --- |
 | [CONSTITUTION.md](CONSTITUTION.md) | Foundational articles, human–AI partnership pledge, governance, decision principles, and definition of done. |
+| [LIVING_CONSTITUTION.md](LIVING_CONSTITUTION.md) | Ongoing evolution, community amendments, independent adaptations, and governance boundaries. |
+| [CONTRIBUTING.md](CONTRIBUTING.md) | Practical instructions for proposals, pull requests, reviews, attribution, and AI-assisted contributions. |
 | [AGENTS.md](AGENTS.md) | Instructions for AI coding agents and human collaborators before, during, and after changes. |
 | [RELEASE_CHECKLIST.md](RELEASE_CHECKLIST.md) | Evidence-based PR/release gates and a Constitution Impact Statement template. |
 | [APP_WORKSHOP_FOUNDATION.md](APP_WORKSHOP_FOUNDATION.md) | A proposed translation of these principles into App Workshop architecture and testable milestones. |
 
 ## How to adopt it in a development project
 
-1. Read the [full constitution](CONSTITUTION.md), including the policy for exceptions and amendments.
+1. Read the [full constitution](CONSTITUTION.md) and [Living Constitution](LIVING_CONSTITUTION.md), including adaptation, exception, and amendment guidance.
 2. Review the draft with the project's human maintainers and record whether and how it is adopted.
 3. Copy `CONSTITUTION.md`, `AGENTS.md`, and `RELEASE_CHECKLIST.md` into the project's repository and link them from its README and pull-request process.
 4. Choose and add an explicit open-source `LICENSE` for software you intend to release as open source; review dependencies and contributor rights. This constitution is **not** a substitute for a software license.
@@ -60,7 +68,7 @@ These principles can also be adopted by other projects, including QuoteCheck, wi
 - **Constitution version:** 0.1.0, proposed draft.
 - **Adoption/ratification:** Not formally recorded in these documents.
 - **Software/content license:** Not selected. **Do not assume that a public repository grants open-source reuse rights.** The maintainers should choose and add an appropriate license before describing the materials themselves as open-source licensed.
-- **Contributions:** Suggestions and discussions are welcome; review and rights/permission guidelines should be established before accepting third-party code or text contributions.
+- **Contributions:** Suggestions and discussions are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md). Because licensing remains undecided, discuss permissions before submitting substantial copyrighted material.
 
 References: [Open Source Definition](https://opensource.org/osd) · [OSI-approved licenses](https://opensource.org/licenses) · [AGENTS.md convention](https://agents.md/)
 
