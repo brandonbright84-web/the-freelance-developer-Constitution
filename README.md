@@ -27,6 +27,10 @@ This is a **starting point, not a final rulebook**. We invite developers, studen
 
 Read the [Living Constitution](LIVING_CONSTITUTION.md) for how amendments, disagreement, forks, and AI contributions work, and [Contributing](CONTRIBUTING.md) for how to participate. **The intended right to copy and redistribute adapted text still requires an explicit license**, which has not yet been selected.
 
+**First round of feedback**
+
+What would you change? If a paywall or a tool switch made it hard to keep your work, share what happened and what would have helped. Join the [first feedback thread](https://github.com/brandonbright84-web/the-freelance-developer-Constitution/issues/1).
+
 ## Read the constitutional documents
 
 | File | Purpose |
