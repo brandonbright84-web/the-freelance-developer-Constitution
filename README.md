@@ -61,6 +61,8 @@ These principles can also be adopted by other projects, including QuoteCheck, wi
 
 ## Human and AI partnership
 
+> **Human creativity establishes the destination. Artificial intelligence expands the possible routes. Evidence determines whether we've arrived.**
+
 **Humans:** Set goals, approve important decisions, review evidence, remain accountable, and protect creator rights.
 
 **AI systems:** Offer ideas and implementations, disclose uncertainty, explain tradeoffs, report tests honestly, respect access boundaries, and seek approval for sensitive or irreversible actions.
@@ -69,7 +71,7 @@ These principles can also be adopted by other projects, including QuoteCheck, wi
 
 ## Status and licensing
 
-- **Constitution version:** 0.1.0, proposed draft.
+- **Constitution version:** 0.1.1, proposed draft.
 - **Adoption/ratification:** Not formally recorded in these documents.
 - **Software/content license:** Not selected. **Do not assume that a public repository grants open-source reuse rights.** The maintainers should choose and add an appropriate license before describing the materials themselves as open-source licensed.
 - **Contributions:** Suggestions and discussions are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md). Because licensing remains undecided, discuss permissions before submitting substantial copyrighted material.
