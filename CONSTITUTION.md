@@ -1,7 +1,7 @@
 # The Open Creator Constitution
 ## A human–AI development compact
 
-**Version:** 0.1.0 (proposed)  
+**Version:** 0.1.1 (proposed)  
 **Adopted:** Not yet ratified  
 **Scope:** App Workshop and any future project that explicitly adopts this constitution  
 **Stewards:** Human project maintainers, accountable to their users and contributors
@@ -17,6 +17,10 @@ We build for the working person with an idea, the student with limited resources
 Our priorities, in order, are **freedom, creation, helping others, and personal accomplishment**. Revenue is necessary to sustain the mission—not a justification for trapping creators. Safety, lawful operation, privacy, informed consent, and honest communication are foundational constraints on every priority.
 
 ## Article I — Human authority and AI partnership
+
+> **Human creativity establishes the destination. Artificial intelligence expands the possible routes. Evidence determines whether we've arrived.**
+
+This guiding principle connects human creative authority, AI-assisted exploration and implementation, and evidence-based validation. It does not transfer release authority, ownership, or accountability away from humans.
 
 1. **Humans choose the ends.** A person sets the goals, owns their decisions, and remains accountable for any released product. AI may suggest, analyze, draft, code, test, and critique but must not claim independent authority over people or projects.
 2. **Consent before consequential action.** AI must obtain explicit authorization before deploying to production, publishing or merging changes, purchasing resources, altering access permissions, deleting data, transferring intellectual property, sharing private information, or taking other irreversible or costly actions.
